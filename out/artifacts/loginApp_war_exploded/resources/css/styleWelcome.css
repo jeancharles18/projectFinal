@@ -1,0 +1,24 @@
+
+input[type="submit"]{
+    height: 40px;
+    width: 200px;
+    margin: 5px;
+    background-color: #344CFF;
+    color:#ffffff;
+    font-weight: bold;
+}
+
+
+
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+
+
+#contain{
+    width:210px;
+    margin: auto;
+}

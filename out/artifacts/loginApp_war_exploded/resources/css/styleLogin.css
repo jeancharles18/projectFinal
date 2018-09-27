@@ -1,0 +1,29 @@
+#contain{
+    width: 400px;
+    margin: auto;
+
+}
+
+input[type="text"], input[type="submit"], input[type="password"]{
+    height: 40px;
+    width: 200px;
+    margin: 5px;
+}
+
+label{
+    margin: 5px;
+}
+
+input[type="submit"]{
+    color:#FFFFFF;
+    font-weight: bold;
+}
+
+input[type="submit"]{
+
+    background-color: #344CFF;
+}
+
+span{
+   color:#ff0000;
+}
